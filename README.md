@@ -2,7 +2,7 @@
 
 <img src="assets/add-to-cart.png" width="200px" alt="Logo of my Web App">
 
-Welcome to the Shopping List Web App! Say goodbye to the hassle of managing your shopping lists on paper. With this web app, you can easily create and manage your shopping lists digitally. Spend less time worrying about forgetting items and more time enjoying your shopping experience.
+Welcome to the Add-to-Cart Web App! Say goodbye to the hassle of managing your shopping lists on paper. With this web app, you can easily create and manage your shopping lists digitally. Spend less time worrying about forgetting items and more time enjoying your shopping experience.
 
 ## Features
 
